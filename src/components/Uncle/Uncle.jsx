@@ -6,8 +6,8 @@ const Uncle = ({asset}) => {
         <div>
             <h2>Uncle</h2>
             <section className="flex">
-                <Cousin name={'Rafsan'} asset={asset}></Cousin>
-                <Cousin name={'Sohana'}></Cousin>
+                <Cousin name={'Rana'} asset={asset}></Cousin>
+                <Cousin name={'Fahim'}></Cousin>
             </section>
         </div>
     );

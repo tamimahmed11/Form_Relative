@@ -9,7 +9,7 @@ const Cousin = ({name, asset}) => {
             <p>{name}</p>
             <section>
                 {asset && <Special asset={asset}></Special>}
-                {name==='Rubaiya' && <Friend></Friend>}
+                {name==='Runa' && <Friend></Friend>}
             </section>
         </div>
     );
